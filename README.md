@@ -4,4 +4,8 @@
 
 1 : goto the terminal 
 
-2. type ```meteor``` and hit Enter
+2. type ```npm install``` and hit Enter.
+
+3. type ```meteor``` and hit Enter
+
+4. run http://localhost.com/
