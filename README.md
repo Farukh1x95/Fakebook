@@ -8,4 +8,4 @@
 
 3. type ```meteor``` and hit Enter
 
-4. run http://localhost.com/
+4. run http://localhost.com:3000
